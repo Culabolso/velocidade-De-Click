@@ -1,0 +1,61 @@
+
+
+
+* /* Todo meu block Externo*/
+{
+
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+
+}
+
+.cabecalho /* A parte de cima do meu bloco de clique*/
+{
+
+    background-color: aliceblue;
+    height: 50px;
+    text-align: center;
+    
+}
+
+#textoC  /* O texto que fica no cabecalho */
+{
+    
+    font-size: 30px;
+    padding-top: 12px;
+
+}
+
+.localClick /* Todo o bloco de click */
+{
+    background-color: blue;
+    height: 550px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+
+
+#resposta1 /* Minha primeira linha de texto */
+{
+
+    position: relative;
+    top: 25%;
+    text-align: center;
+    height: 0;
+    
+   
+
+}
+
+#resposta2 /* Minha segunda linha de texto */
+{
+
+    position: relative;
+    top: 35%;
+    text-align: center;
+    height: 0;
+
+}
