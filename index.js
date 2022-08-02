@@ -1,4 +1,7 @@
 
+//OBS: provavelmente o resultado do teste do click não sera realmente preciso.
+
+
 /*
 
 Resumo dos meus 5 estados
