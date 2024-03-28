@@ -8,12 +8,12 @@ Resumo dos meus 5 estados
 
 1-Estado azul(Estado no qual a tela começara so sera exibido uma vez com o usuario abrir o site)
 
-2-Estado vermelho(Estado no qual se começa a jogar pois nele a tela ficara vermelha até que ou sofra alteração pelo proprio codigo
-ou sofra alteração pelo click antessipado do usuario)   
+2-Estado vermelho(Estado no qual se começa a jogar pois nele a tela ficara vermelha até que sofra alteração pelo proprio código
+ou sofra alteração pelo click antecipado do usuario)   
     
-3-Estado laranja(Estado no qual e chamado quando o usuario clica antessipadamente)   
+3-Estado laranja(Estado no qual e chamado quando o usuario clica antecipadamente)   
 
-4-Estado verde(Estado no qual e chamado pelo proprio codigo quando se passa um certo tempo no estado vermelho)
+4-Estado verde(Estado no qual e chamado pelo proprio código, mostrando ao usuario que esta na hora do mesmo efetuar o click)
 
 5-Estado amarelo(Estado no qual e chamado quando efetua um click no estado verde assim mostrando ao usuario o resultado do teste)
  
